@@ -1,0 +1,4 @@
+### httpTest
+GET http://127.0.0.1:18000/kafka/send
+Accept: application/json
+Content-Type: application/json
